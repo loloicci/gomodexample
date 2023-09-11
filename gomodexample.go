@@ -1,3 +1,3 @@
 package gomodexample
 
-const Num = 42
+const Num = 101010
